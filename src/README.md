@@ -22,19 +22,19 @@ actions:
     link: ./projects/
 features:
   - title: GitHub
-    icon: /assets/icon/github.png/
+    icon: /assets/icon/github.png
     details: 我的GitHub
     link: https://github.com/zhaoxi7109
   - title: 码云
-    icon: /assets/icon/gitee.png/
+    icon: /assets/icon/gitee.png
     details: 我的码云
     link: https://gitee.com/zhaoxi7109
   - title: B站
-    icon: /assets/icon/bilibili.png/
+    icon: /assets/icon/bilibili.png
     details: 我的B站
     link: https://space.bilibili.com/1806649688
   - title: CSDN
-    icon: /assets/icon/csdn.png/
+    icon: /assets/icon/csdn.png
     details: 我的csdn
     link: https://blog.csdn.net/qq_51106567?spm=1000.2115.3001.5343
 copyright: false
